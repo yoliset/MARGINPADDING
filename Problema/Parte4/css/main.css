@@ -1,1 +1,8 @@
-/* Agrega aqui tu CSS */
+div{
+	width: 200px;
+	height: 250px;
+	border: 2px solid red;
+	background-color: white;
+
+	
+}
